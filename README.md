@@ -6,10 +6,19 @@ Il fonctionne pour le C, C++ et Fortran
 
 # Utilisation
 
-### Installation
+### Installation  
+##### Debian
 ```sh
 $ sudo apt-get install build-essential gdb
-```
+```  
+  
+##### Archlinux
+```sh
+$ sudo pacman -S gdb
+```  
+  
+##### Windows  
+IDK lol
 
 ### Compilation pour utiliser les infos de debuggage
 Utiliser l'option -g
