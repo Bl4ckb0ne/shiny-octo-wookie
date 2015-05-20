@@ -6,10 +6,19 @@ Il fonctionne pour le C, C++ et Fortran
 
 # Utilisation
 
-### Installation
+### Installation  
+##### Debian
 ```sh
 $ sudo apt-get install build-essential gdb
-```
+```  
+  
+##### Archlinux
+```sh
+$ sudo pacman -S gdb
+```  
+  
+##### Windows  
+IDK lol
 
 ### Compilation pour utiliser les infos de debuggage
 Utiliser l'option -g
@@ -121,5 +130,9 @@ Hint : Pensez aux breakpoints
 Source - http://www.enigmagroup.org/pages/elf/ - challenge 1
 
 ##### Challenge 2 
-Hint : Pensez reference
+Hint : Pensez reference  
 Source - http://www.enigmagroup.org/pages/elf/ - challenge 2
+
+##### Suite
+[Ringzer0team]
+[Ringzer0team]: http://www.ringzer0team.com/
